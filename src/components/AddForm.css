@@ -1,0 +1,12 @@
+.container{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input{
+    padding: 10px 50px ;
+}
+input:focus{
+    outline: none;
+}

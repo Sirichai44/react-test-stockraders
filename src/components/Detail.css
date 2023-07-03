@@ -1,0 +1,15 @@
+
+.container{
+    width: 96%;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.header{
+    margin: 30px auto;
+}
+.eng{
+    margin: 50px auto;
+}
+.th{
+    margin: 50px auto;
+}
